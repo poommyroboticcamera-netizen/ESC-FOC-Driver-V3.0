@@ -1,0 +1,18 @@
+-> hw_status 
+
+Firmware: 6.0
+Hardware: DRV8302_B02
+UUID: 33 00 21 00 0D 51 36 30 38 36 36 32
+Permanent NRF found: No
+Odometer : 0 m
+Runtime  : 711 s
+FOC Current Offsets: 2047.44 2059.99 0.00
+FOC Voltage Offsets: 0.0599 -0.0191 -0.0407
+FOC Voltage Offsets Undriven: 0.0000 0.0000 0.0000
+USB config events: 1
+USB write timeouts: 0
+Current Measurement Range: 330.0 A
+Dead time: 360 ns
+Mempool mcconf now: 0 highest: 0 (max 9)
+Mempool appconf now: 0 highest: 0 (max 2)
+ 

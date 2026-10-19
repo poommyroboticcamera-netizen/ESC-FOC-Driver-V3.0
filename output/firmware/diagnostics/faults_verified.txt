@@ -1,0 +1,36 @@
+-> faults 
+
+The following faults were registered since start:
+
+Fault            : FAULT_CODE_DRV
+Motor            : 1
+Current          : 0.0
+Current filtered : 0.0
+Voltage          : 23.91
+Duty             : 0.032
+RPM              : -3.3
+Tacho            : -3
+Cycles running   : 0
+TIM duty         : 213
+TIM val samp     : 3360
+TIM current samp : 3360
+TIM top          : 6720
+Comm step        : 0
+Temperature      : 32.44
+ 
+Fault            : FAULT_CODE_UNDER_VOLTAGE
+Motor            : 1
+Current          : 0.0
+Current filtered : 0.0
+Voltage          : 7.11
+Duty             : -0.130
+RPM              : 194.7
+Tacho            : -3
+Cycles running   : 0
+TIM duty         : -870
+TIM val samp     : 3360
+TIM current samp : 3360
+TIM top          : 6720
+Comm step        : 0
+Temperature      : 32.39
+ 

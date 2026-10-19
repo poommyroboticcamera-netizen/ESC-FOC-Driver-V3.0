@@ -1,0 +1,36 @@
+-> faults 
+
+The following faults were registered since start:
+
+Fault            : FAULT_CODE_ABS_OVER_CURRENT
+Motor            : 1
+Current          : 12.0
+Current filtered : 0.0
+Voltage          : 24.39
+Duty             : 0.000
+RPM              : 0.0
+Tacho            : 3
+Cycles running   : 0
+TIM duty         : 0
+TIM val samp     : 480
+TIM current samp : 2880
+TIM top          : 4800
+Comm step        : 4
+Temperature      : 30.84
+ 
+Fault            : FAULT_CODE_UNDER_VOLTAGE
+Motor            : 1
+Current          : 0.0
+Current filtered : 0.0
+Voltage          : 7.12
+Duty             : -0.129
+RPM              : 199.1
+Tacho            : 3
+Cycles running   : 0
+TIM duty         : -867
+TIM val samp     : 3360
+TIM current samp : 3360
+TIM top          : 6720
+Comm step        : 3
+Temperature      : 31.85
+ 

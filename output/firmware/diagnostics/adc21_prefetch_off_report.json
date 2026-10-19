@@ -1,0 +1,21 @@
+{
+  "hardware": "DRV8302_B02_R2",
+  "mode": "FOC",
+  "abs_limit_A": 10.0,
+  "fault_before": "-> fault \n\nFAULT_CODE_NONE\n",
+  "samples": 1919,
+  "i1": {
+    "min_A_equivalent": -8.703296703296704,
+    "max_A_equivalent": 13.216117216117217,
+    "mean_A_equivalent": 0.5172794896609383,
+    "stdev_A_equivalent": 1.6892254905265904
+  },
+  "i2": {
+    "min_A_equivalent": -10.476190476190476,
+    "max_A_equivalent": 13.860805860805861,
+    "mean_A_equivalent": 0.23524920450402473,
+    "stdev_A_equivalent": 1.5836632978509109
+  },
+  "fault_after": "-> fault \n\nFAULT_CODE_NONE\n",
+  "fault_history": "-> faults \n\nThe following faults were registered since start:\n\nFault            : FAULT_CODE_DRV\nMotor            : 1\nCurrent          : 0.0\nCurrent filtered : 0.0\nVoltage          : 24.12\nDuty             : -0.047\nRPM              : -0.1\nTacho            : 2\nCycles running   : 0\nTIM duty         : -316\nTIM val samp     : 3360\nTIM current samp : 3360\nTIM top          : 6720\nComm step        : 0\nTemperature      : 30.04\n \nFault            : FAULT_CODE_UNDER_VOLTAGE\nMotor            : 1\nCurrent          : 0.0\nCurrent filtered : 0.0\nVoltage          : 7.29\nDuty             : -0.135\nRPM              : 203.6\nTacho            : 3\nCycles running   : 0\nTIM duty         : -909\nTIM val samp     : 3360\nTIM current samp : 3360\nTIM top          : 6720\nComm step        : 0\nTemperature      : 29.55\n "
+}

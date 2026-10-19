@@ -1,0 +1,18 @@
+{
+  "status": "compiled_and_static_checks_passed_not_hardware_tested",
+  "firmware_version": "6.00",
+  "source_commit": "4b822f0f944918957c55391ca0672925153f3fde",
+  "gcc": "7.2.1",
+  "hardware": "DRV8302_B02",
+  "firmware_size_bytes": 524280,
+  "bootloader_size_bytes": 5280,
+  "firmware_initial_sp": "0x20000800",
+  "firmware_reset_vector": "0x800c001",
+  "bootloader_reset_vector": "0x80e04f1",
+  "hex_checksums_valid": true,
+  "flash_ranges_do_not_overlap": true,
+  "compiler_warnings": 0,
+  "compiler_errors": 0,
+  "flashed_to_device": false,
+  "schematic_sha256": "782b347c9f2812932ccfbaa7540356fc073a8d558fcc9650db13af1c764c83ef"
+}

@@ -1,0 +1,21 @@
+{
+  "mode": "FOC",
+  "limits_unchanged": true,
+  "changed_fields": [
+    "motor_type",
+    "foc_offsets_current[0]",
+    "foc_offsets_current[1]",
+    "foc_offsets_voltage[0]",
+    "foc_offsets_voltage[1]",
+    "foc_offsets_voltage[2]"
+  ],
+  "reboot_persisted": true,
+  "samples": 492,
+  "fault_codes": [
+    0
+  ],
+  "voltage_min": 24.0,
+  "voltage_max": 24.1,
+  "current_abs_max": 0.0,
+  "duty_abs_max": 0.092
+}

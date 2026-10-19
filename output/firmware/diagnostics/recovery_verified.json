@@ -1,0 +1,14 @@
+{
+  "date_local": "2026-10-19",
+  "firmware": "6.00",
+  "hardware": "DRV8302_B02_R2",
+  "write_verified": true,
+  "usb_communication": true,
+  "motor_type": "FOC",
+  "fault_code": 0,
+  "voltage_V": 24.0,
+  "absolute_current_limit_A": 10.0,
+  "motor_tested": false,
+  "adc_noise_resolved": false,
+  "diagnostic_program_removed": true
+}

@@ -1,0 +1,36 @@
+{
+  "normal_shunt_inputs": {
+    "samples": 912,
+    "channels": [
+      {
+        "min_counts": -36.0,
+        "max_counts": 55.0,
+        "mean_counts": 12.265350877192983,
+        "stdev_counts": 16.175971224390942
+      },
+      {
+        "min_counts": -32.0,
+        "max_counts": 58.0,
+        "mean_counts": 7.764254385964913,
+        "stdev_counts": 19.274116662723358
+      }
+    ]
+  },
+  "internal_dc_cal_inputs": {
+    "samples": 956,
+    "channels": [
+      {
+        "min_counts": -61.0,
+        "max_counts": 84.0,
+        "mean_counts": 0.6642259414225942,
+        "stdev_counts": 28.905219818728835
+      },
+      {
+        "min_counts": -73.0,
+        "max_counts": 88.0,
+        "mean_counts": -1.7740585774058577,
+        "stdev_counts": 28.711834712633856
+      }
+    ]
+  }
+}

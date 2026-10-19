@@ -1,0 +1,10 @@
+{
+  "motor_type": 2,
+  "l_current_max": 5.0,
+  "l_current_min": -2.0,
+  "l_abs_current_max": 10.0,
+  "l_slow_abs_current": 0,
+  "foc_offsets_current[0]": 2048.1640625,
+  "foc_offsets_current[1]": 2060.799072265625,
+  "foc_offsets_current[2]": 0.0
+}

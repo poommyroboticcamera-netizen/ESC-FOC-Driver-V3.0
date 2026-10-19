@@ -1,0 +1,10 @@
+tmp/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+~$*
+output/firmware/device_backup/
+output/firmware/flash_record_20261019.json
+output/firmware/DRV8302_B02_flash_package.zip

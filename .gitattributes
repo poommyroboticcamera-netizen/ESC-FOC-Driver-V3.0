@@ -1,0 +1,10 @@
+# Preserve original bytes of firmware, CAD, PDFs and historical evidence.
+* -text
+*.pdf binary
+*.png binary
+*.zip binary
+*.bin binary
+*.elf binary
+*.SLDASM binary
+*.SLDPRT binary
+*.STL binary
